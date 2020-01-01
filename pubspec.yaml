@@ -1,7 +1,9 @@
 name: android_activity_demo
-description: A new Flutter start android application.
+description: A demo project to start the android activity from flutter.
+author: Pawan Kumar
+url: https://www.nplix.com/flutter-how-to-start-android-activity-from-flutter-view/
 
-# The following defines the version and build number for your application.
+    # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
 # Both the version and the builder number may be overridden in flutter
